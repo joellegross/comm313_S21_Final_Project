@@ -13,15 +13,10 @@ My research question:
 
 I have three guiding hypotheses to help conduct my reseach:
 
-<<<<<<< HEAD
 * Hypothesis #1: *Conservatives are more likely to discuss economic-related topics regarding the pandemic than liberals.*
 * Hypothesis #2: *Liberals are more likely to discuss health-related topics, such as masks and vaccines than conservatives.*
 * Hypothesis #3: *Liberals are more likely to have positive sentiment surrounding the vaccines, masks, and econmy than conservatives who are more likely to have a negative sentiment.*
-=======
-  * Hypothesis #1: *Conservatives are more likely to discuss economic-related topics regarding the pandemic than liberals.*
-  * Hypothesis #2: *Liberals are more likely to discuss health-related topics, such as masks and vaccines than conservatives.*
-  * Hypothesis #3: *Liberals are more likely to have positive sentiment surrounding the vaccines, masks, and econmy than conservatives who are more likely to have a negative sentiment.*
->>>>>>> 934f7ea42c4397a9df3fcb21a887ac0212320783
+
 
 A brief description of the four subfolders:
 
