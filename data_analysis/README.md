@@ -18,7 +18,7 @@
 * ` sentiment_analysis_with_VADER.ipynb`: Sentiment Analysis with VADER
     
     * For Vaccine, Mask, Economy related words:
-        * Plot of Sentiment Data Over Course of year
+        * Plot of Sentiment Data over course of year
         * Peak Polarization Analysis
         * Difference in Means Analysis & Graph
         
