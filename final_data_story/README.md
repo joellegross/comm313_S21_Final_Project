@@ -1,10 +1,11 @@
-## Blog post of your data story for COMM313 Final Project
+## My Final Data Story for COMM-313 Project: Partisan Pandemic Patterns
 
-* This folder should contain the files that contain the output of all your data analysis. 
+* Below is a medium article which presents my final data story
 
-* You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks). 
+* Click here to read! 
 
-* Update this README file to describe the presentation.
+https://joellegr.medium.com/partisan-pandemic-patterns-a76185515aed
+
 
 
 

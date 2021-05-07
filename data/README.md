@@ -1,12 +1,16 @@
 ## Data files for COMM313 Final Project
 
-* This folder should contain the data files you have used in your analysis
+* Utilizing snscrape I pulled down the timelines of 170 popular liberal accounts and 125 popular conservative accounts from the past year (March 1st, 2020-March 31st, 2021).
 
+* I found a list of "liberal and conservative accounts from Pablo Barbara's 2015 research paper, *Birds of the Same Feather Tweet Together*
 
-* You should update this README file to list and describe the files.
+* I randomly sampled the liberal tweets so both corpuses would be the same size
 
+* Each corpus has approximately 10,000 tweets.
 
-* You can also create additional sub-folders to better organize your data.
-    * For example, you could have a folder called `raw` or `orig` to contain the original data files you downloaded and then a folder called `final` or `clean` that contains versions of these data sheets that you have worked with to clean up missing data, to subset or merge etc.
+* Since the corpus was so large, I had to scrape, random sample, and clean it on my local machine, so I uploaded the cleaned files for both the liberal and conservative coprus
+
+* ` con_final_data.csv`: 10,000 conservative tweets
+* ` liberal_data_final.csv`: 10,000 liberal tweets
     
     
